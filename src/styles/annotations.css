@@ -1,0 +1,46 @@
+.loader {
+  background: #d60000;
+}
+
+.loader__mark {
+  width: clamp(15rem, 36vw, 31rem);
+  height: auto;
+}
+
+.loader__track {
+  background: rgba(255, 255, 255, .28);
+}
+
+.loader__track i {
+  background: #fff;
+}
+
+.wordmark {
+  display: inline-block;
+  line-height: 0;
+}
+
+.brand-wordmark {
+  width: clamp(7.6rem, 9.5vw, 9rem);
+  height: auto;
+}
+
+.footer .brand-wordmark {
+  width: clamp(11rem, 16vw, 15rem);
+}
+
+@media (max-width: 760px) {
+  .loader__mark {
+    width: min(72vw, 18rem);
+  }
+
+  .header .brand-wordmark {
+    width: 7rem;
+  }
+
+  .hero__content h1 {
+    font-size: clamp(3.5rem, 16vw, 4.375rem);
+    line-height: .84;
+  }
+
+}
