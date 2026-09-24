@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "vite build",
+    "build": "vite build --manifest && vite build --ssr src/legal/prerender-entry.jsx --outDir dist-ssr --emptyOutDir && node scripts/prerender.mjs",
     "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {

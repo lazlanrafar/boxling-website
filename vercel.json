@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:route(privacy-policy|terms-of-service|delete-account|support)",
+      "destination": "/:route/index.html"
+    }
+  ]
+}
