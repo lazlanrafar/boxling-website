@@ -24,6 +24,7 @@ const ui = {
     faq: "FAQ",
     app: "Aplikasi",
     backToTop: "Kembali ke atas ↑",
+    trademark: "Merek terdaftar IDM001477043.",
   },
   en: {
     home: "Boxling home",
@@ -39,6 +40,7 @@ const ui = {
     faq: "FAQ",
     app: "App",
     backToTop: "Back to top ↑",
+    trademark: "Registered trademark IDM001477043.",
   },
 };
 
@@ -165,7 +167,7 @@ function LegalFooter({ lang }) {
     </div>
     <div className="legal-footer__meta">
       <span>Bali · Indonesia</span>
-      <span>© 2026 Boxling Coffee & Milkbar</span>
+      <span>© 2026 Boxling Coffee & Milkbar. {t.trademark}</span>
       <a href="#top">{t.backToTop}</a>
     </div>
   </footer>;

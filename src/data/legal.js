@@ -20,7 +20,7 @@ export const legalDocuments = [
         "blocks": [
           { "type": "p", "id": ["Kebijakan ini menjelaskan data apa yang kami kumpulkan, untuk apa kami memakainya, dengan siapa kami membagikannya, dan apa saja hakmu. Kebijakan ini berlaku untuk:"], "en": ["This policy explains what data we collect, what we use it for, who we share it with, and what your rights are. It applies to:"] },
           { "type": "ul", "id": ["Situs web **boxlingcoffee.com**.", "Aplikasi **Boxling** untuk pelanggan (id.boxling.customer) di Android dan iOS.", "Aplikasi **Boxling POS** untuk staf (id.boxling.pos) di Android dan iOS.", "**Dasbor admin** internal di app.boxlingcoffee.com.", "Boxling POS dan dasbor admin hanya dipakai oleh staf dan admin Boxling."], "en": ["The **boxlingcoffee.com** website.", "The **Boxling** customer app (id.boxling.customer) on Android and iOS.", "The **Boxling POS** staff app (id.boxling.pos) on Android and iOS.", "The internal **admin dashboard** at app.boxlingcoffee.com.", "Only Boxling staff and admins use Boxling POS and the admin dashboard."] },
-          { "type": "p", "id": ["Berlaku sejak 24 September 2026. Terakhir diperbarui 24 September 2026."], "en": ["Effective 24 September 2026. Last updated 24 September 2026."] },
+          { "type": "p", "id": ["Berlaku sejak 24 September 2026. Terakhir diperbarui 25 September 2026."], "en": ["Effective 24 September 2026. Last updated 25 September 2026."] },
           { "type": "note", "id": ["Boxling hanya melayani ambil sendiri (pickup), bukan pesan antar. Kami tidak meminta alamat pengiriman. Kedua aplikasi tidak meminta akses ke kamera, mikrofon, kontak, atau galeri foto."], "en": ["Boxling is pickup only, not delivery. We do not ask for a delivery address. Neither app asks for access to your camera, microphone, contacts, or photo library."] }
         ]
       },
@@ -153,7 +153,8 @@ export const legalDocuments = [
         "id": "contact",
         "heading": { "id": "Hubungi kami", "en": "Contact us" },
         "blocks": [
-          { "type": "p", "id": ["**Boxling Coffee & Milkbar**. Email: {{CONTACT_EMAIL}}"], "en": ["**Boxling Coffee & Milkbar**. Email: {{CONTACT_EMAIL}}"] },
+          { "type": "p", "id": ["**Boxling Coffee & Milkbar**, Kuta Utara, Badung, Bali, Indonesia. Email: {{CONTACT_EMAIL}}"], "en": ["**Boxling Coffee & Milkbar**, Kuta Utara, Badung, Bali, Indonesia. Email: {{CONTACT_EMAIL}}"] },
+          { "type": "p", "id": ["Boxling Coffee & Milkbar adalah merek terdaftar dengan nomor pendaftaran IDM001477043."], "en": ["Boxling Coffee & Milkbar is a registered trademark, registration number IDM001477043."] },
           { "type": "note", "id": ["Kebijakan ini tersedia dalam Bahasa Indonesia dan Bahasa Inggris. Jika ada perbedaan makna, versi Bahasa Indonesia yang berlaku."], "en": ["This policy is available in Indonesian and English. If the two versions differ in meaning, the Indonesian version prevails."] }
         ]
       }
@@ -175,7 +176,7 @@ export const legalDocuments = [
           { "type": "p", "id": ["Ketentuan ini berlaku saat kamu membuat akun, memesan lewat aplikasi, atau memakai Boxling POS. Kalau kamu tidak setuju, jangan gunakan layanan tersebut."], "en": ["These terms apply when you create an account, order through the app, or use Boxling POS. If you do not agree, do not use those services."] },
           { "type": "p", "id": ["Dengan mendaftar di aplikasi Boxling untuk pelanggan, kamu menyetujui ketentuan ini dan Kebijakan Privasi kami. Halaman masuk dan daftar di aplikasi Boxling untuk pelanggan punya tautan ke kedua dokumen, jadi kamu bisa membacanya sebelum punya akun. Di aplikasi itu, tautan ke ketentuan ini berjudul Syarat & Ketentuan."], "en": ["By signing up in the Boxling app for customers, you agree to these terms and our Privacy Policy. The sign-in and sign-up screens of the Boxling app for customers link to both documents, so you can read them before you have an account. In that app, the link to these terms is labelled Syarat & Ketentuan (Terms & Conditions)."] },
           { "type": "p", "id": ["Kebijakan Privasi kami adalah dokumen terpisah. Isinya menjelaskan data apa yang kami proses, untuk apa, dan hak-hakmu atas data itu, termasuk hak untuk mengakses, memperbaiki, dan menghapus datamu, serta menarik persetujuan."], "en": ["Our Privacy Policy is a separate document. It explains what data we process, why, and your rights over that data, including the right to access, correct, and delete your data, and to withdraw consent."] },
-          { "type": "p", "id": ["Terakhir diperbarui: 24 September 2026."], "en": ["Last updated: 24 September 2026."] }
+          { "type": "p", "id": ["Terakhir diperbarui: 25 September 2026."], "en": ["Last updated: 25 September 2026."] }
         ]
       },
       {
@@ -254,7 +255,8 @@ export const legalDocuments = [
         "id": "intellectual-property",
         "heading": { "id": "Kekayaan intelektual", "en": "Intellectual property" },
         "blocks": [
-          { "type": "p", "id": ["Nama Boxling, logo, foto, video, desain, teks, dan perangkat lunak di situs dan aplikasi adalah milik Boxling atau pemberi lisensinya. Kamu boleh memakai situs dan aplikasi untuk keperluan pribadi sesuai ketentuan ini. Kamu tidak boleh menyalin, mengubah, atau menyebarkan materi tersebut tanpa izin tertulis dari kami."], "en": ["The Boxling name, logos, photos, videos, designs, text, and software on the website and in the apps belong to Boxling or its licensors. You may use the website and apps for personal purposes under these terms. You must not copy, modify, or distribute this material without our written permission."] }
+          { "type": "p", "id": ["Nama Boxling, logo, foto, video, desain, teks, dan perangkat lunak di situs dan aplikasi adalah milik Boxling atau pemberi lisensinya. Kamu boleh memakai situs dan aplikasi untuk keperluan pribadi sesuai ketentuan ini. Kamu tidak boleh menyalin, mengubah, atau menyebarkan materi tersebut tanpa izin tertulis dari kami."], "en": ["The Boxling name, logos, photos, videos, designs, text, and software on the website and in the apps belong to Boxling or its licensors. You may use the website and apps for personal purposes under these terms. You must not copy, modify, or distribute this material without our written permission."] },
+          { "type": "p", "id": ["Merek **Boxling Coffee & Milkbar** (nama dan logo) terdaftar di Direktorat Jenderal Kekayaan Intelektual, Kementerian Hukum Republik Indonesia, dengan nomor pendaftaran **IDM001477043** untuk kelas 30 (minuman berbahan dasar kopi). Perlindungannya berlaku sampai 15 Januari 2036."], "en": ["The **Boxling Coffee & Milkbar** trademark (name and logo) is registered with the Directorate General of Intellectual Property, Ministry of Law of the Republic of Indonesia, under registration number **IDM001477043** in class 30 (coffee-based beverages). Protection is valid until 15 January 2036."] }
         ]
       },
       {
@@ -305,6 +307,7 @@ export const legalDocuments = [
         "id": "contact",
         "heading": { "id": "Kontak", "en": "Contact" },
         "blocks": [
+          { "type": "p", "id": ["**Boxling Coffee & Milkbar**, Kuta Utara, Badung, Bali, Indonesia."], "en": ["**Boxling Coffee & Milkbar**, Kuta Utara, Badung, Bali, Indonesia."] },
           { "type": "p", "id": ["Punya pertanyaan tentang ketentuan ini, pesananmu, atau akunmu? Hubungi kami di {{CONTACT_EMAIL}}."], "en": ["Questions about these terms, your order, or your account? Contact us at {{CONTACT_EMAIL}}."] }
         ]
       }
@@ -322,9 +325,9 @@ export const legalDocuments = [
         "id": "aplikasi-dan-pengembang",
         "heading": { "id": "Aplikasi dan pengelola", "en": "App and operator" },
         "blocks": [
-          { "type": "p", "id": ["Halaman ini menjelaskan cara menghapus akun pelanggan di aplikasi **Boxling** (ID paket Android: id.boxling.customer). Aplikasi ini dikelola oleh **Boxling Coffee & Milkbar**, yang bertindak sebagai pengendali data pribadimu."], "en": ["This page explains how to delete a customer account in the **Boxling** app (Android package ID: id.boxling.customer). The app is operated by **Boxling Coffee & Milkbar**, which acts as the controller of your personal data."] },
+          { "type": "p", "id": ["Halaman ini menjelaskan cara menghapus akun pelanggan di aplikasi **Boxling** (ID paket Android: id.boxling.customer). Aplikasi ini dikelola oleh **Boxling Coffee & Milkbar** (Kuta Utara, Badung, Bali), yang bertindak sebagai pengendali data pribadimu."], "en": ["This page explains how to delete a customer account in the **Boxling** app (Android package ID: id.boxling.customer). The app is operated by **Boxling Coffee & Milkbar** (Kuta Utara, Badung, Bali), which acts as the controller of your personal data."] },
           { "type": "p", "id": ["Ada dua cara: langsung di aplikasi, atau lewat email."], "en": ["There are two ways: directly in the app, or by email."] },
-          { "type": "note", "id": ["Terakhir diperbarui: 24 September 2026."], "en": ["Last updated: 24 September 2026."] }
+          { "type": "note", "id": ["Terakhir diperbarui: 25 September 2026."], "en": ["Last updated: 25 September 2026."] }
         ]
       },
       {

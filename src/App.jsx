@@ -280,7 +280,7 @@ function Download() {
 function Footer() {
   return <footer className="footer"><div className="marquee"><div>NEARBY COFFEE · PICKUP ONLY · BOXLING ·&nbsp;</div><div aria-hidden="true">NEARBY COFFEE · PICKUP ONLY · BOXLING ·&nbsp;</div></div>
     <div className="footer__grid"><div><a className="wordmark" href="#top" aria-label="Boxling home"><BoxlingWordmark tone="red" /></a><p>Kopi keliling modern di Bali. Temukan, pesan, lalu ambil sendiri.</p></div><nav aria-label="Navigasi footer"><a href="#how">Cara kerja</a><a href="#menu">Menu</a><a href="#faq">FAQ</a></nav><nav aria-label="Informasi"><a href="/support">Bantuan</a><a href="/privacy-policy">Kebijakan Privasi</a><a href="/terms-of-service">Ketentuan Layanan</a><a href="/delete-account">Hapus Akun</a><a href="#download">Aplikasi</a></nav><div className="footer__pickup"><BagIcon /><p>Order ahead.<br /><strong>Self-pickup only.</strong></p></div></div>
-    <div className="footer__meta"><span>Bali · Indonesia</span><span>© 2026 Boxling Coffee & Milkbar</span><a href="#top">Kembali ke atas ↑</a></div>
+    <div className="footer__meta"><span>Bali · Indonesia</span><span>© 2026 Boxling Coffee & Milkbar. Merek terdaftar IDM001477043.</span><a href="#top">Kembali ke atas ↑</a></div>
   </footer>;
 }
 
